@@ -1,7 +1,45 @@
-hoy vamos a cear y modificar unos archivos en la primera actividad del modulo introducion ala rogramacion 
+hoy vamos a crear y modificar unos archivos en la primera actividad del modulo introducion a la programacion
 
 Material o Plantillas de Trabajo:
+index.html
+style.css
+
+Introducion a la Progrmacion orientado a objtos
+
+local
+Se a ensenado como trabajar en local descargando en forma de zip
+se decargara comprimido y en explorer
+luego seleciona traer aqui y luego abre en visual estudio 
+
+nuve
+codespaces seleciona create codespaces on main para trabajar en la nuve 
+paginas para trabajar en la nuve:
+https://www.programiz.com/
+https://github.com/features/codespaces
+
+para entender la programacion orientada a objetos
+deves preguntarle a la ia para que te explique los conceptos basicos de la programacion orientada a objetos
+y que te de ejemplos en el lenguaje que estes aprendiendo.
+
+tambien puedes buscar videos en youtube que te expliquen los conceptos basicos de la programacion orientada a objetos
 
 
-Introducion a la Progrmacion 
 
+
+aqui te dejo algunos ejemplos de como
+puedes empezar
+haciendo preguntas a la ia
+tales como:
+
+quiero que me expliques en términos simples que es o de que trata la programación orientada a objetos.
+
+quiero que los ejemplos me los muestre con los lenguajes de programación C++ y JavaScript con manejo DOM
+
+quiero que me expliques sus componente o partes etc.. 
+
+si hay algunos terminos que no entiendo me le digo a la ia que me los explique y me de ejemplos en C++ y JavaScript y tambien buscar videos en youtube que me ayuden a entender mejor.
+
+ideas para crear un proyecto sencillo orientado a objetos:
+videojuegos sencillos
+1: crear un esqueleto o Plantillas con todo lo relacionado al videojuego.
+2: organizar las clases y objetos que se van a necesitar.
