@@ -1,1 +1,34 @@
+my juego
 
+materiales:
+app.js
+index.html
+style.css
+
+descargar:
+iconos: estos son los cuales con quienes desarrollaremos el juego 
+ tales como la imagen del personaje, fondo,iconos entre otras cosas
+
+phaser.js
+phaser.min.js
+
+lenguage y explicacion 
+
+index.html:
+
+body>
+    script src="src/phaser.min.js"></script
+
+    script src="src/phaser.js" script    
+body
+
+
+con script> src="src/phaser.min.js"></script> llamamos direcatamente a la libreria de phaser en la carpetas src que es donde se encuentra el archivo phaser.min.js y el archivo phaser.js
+
+app.js:
+
+aqui configuramos el juego y creamos las escenas :
+pones el fondo, el personaje, los controles y demas cosas que quieras agregar a tu juego
+
+personaje:
+this.player = this.physics.add.sprite(100, 450, 'dude');
